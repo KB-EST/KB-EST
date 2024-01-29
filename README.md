@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KB-EST
-- 👀 I’m interested in becoming a frontend deveoloper 
-- 🌱 I’m currently learning rect
+- 👀 I’m a frontend deveoloper 
+
 - 💞️ I’m looking to collaborate on with my fellow frontend developer
 
 
